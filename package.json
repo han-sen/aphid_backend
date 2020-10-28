@@ -1,0 +1,23 @@
+{
+  "name": "aphid_backend",
+  "version": "1.0.0",
+  "description": "aphid api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/han-sen/aphid_backend.git"
+  },
+  "author": "Mike Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/han-sen/aphid_backend/issues"
+  },
+  "homepage": "https://github.com/han-sen/aphid_backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
