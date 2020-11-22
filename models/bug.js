@@ -11,6 +11,7 @@ const BugSchema = new Schema(
         summary: { type: String, required: true },
         readOut: { type: String, required: false },
         status: { type: String, required: true },
+        userId: { type: String, required: true },
     },
     { timestamps: true }
 );

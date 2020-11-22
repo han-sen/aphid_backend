@@ -8,6 +8,7 @@ const seedData = [
         summary: "can't render list of dogs",
         readOut: "Unexpected token '<' at start of file",
         status: "open",
+        userId: "104525197841473040639",
     },
     {
         id: 2,
@@ -18,6 +19,7 @@ const seedData = [
         summary: "form data is not coming in as expected",
         readOut: "reference error: taget is not defined",
         status: "open",
+        userId: "104525197841473040639",
     },
     {
         id: 3,
@@ -28,6 +30,7 @@ const seedData = [
         summary: "slider starts from 2nd item in image array",
         readOut: "",
         status: "closed",
+        userId: "104525197841473040639",
     },
     {
         id: 4,
@@ -38,6 +41,7 @@ const seedData = [
         summary: "unable to access gated route even with a valid json token",
         readOut: "403 - Unauthorized Access",
         status: "open",
+        userId: "104525197841473040639",
     },
     {
         id: 5,
@@ -48,6 +52,7 @@ const seedData = [
         summary: "ESLint is complaining about nested promises",
         readOut: "moderate: Avoid Nesting Promises",
         status: "closed",
+        userId: "104525197841473040639",
     },
     {
         id: 6,
@@ -58,6 +63,7 @@ const seedData = [
         summary: "form data is not coming in as expected",
         readOut: "reference error: taget is not defined",
         status: "open",
+        userId: "104525197841473040639",
     },
     {
         id: 7,
@@ -69,6 +75,7 @@ const seedData = [
             "user profile area is not recieving its prop data in proper format",
         readOut: "can't access [0] index of undefined",
         status: "open",
+        userId: "104525197841473040639",
     },
     {
         id: 8,
@@ -80,6 +87,7 @@ const seedData = [
             "the API endpoint we're using for realtime coin updates is scheduled to become deprecated",
         readOut: "",
         status: "open",
+        userId: "104525197841473040639",
     },
     {
         id: 9,
@@ -91,6 +99,7 @@ const seedData = [
             "users arent getting midnight birthday notifications in correct timezone",
         readOut: "",
         status: "open",
+        userId: "104525197841473040639",
     },
     {
         id: 10,
@@ -102,6 +111,7 @@ const seedData = [
             "multiple unused imports left over after refactoring store page",
         readOut: "PlantCost is defined but never used no-unused-vars",
         status: "open",
+        userId: "104525197841473040639",
     },
     {
         id: 11,
@@ -114,6 +124,7 @@ const seedData = [
         readOut:
             "Maximum update depth exceeded. This can happen when a component repeatedly calls setState inside componentWillUpdate or componentDidUpdate.",
         status: "open",
+        userId: "104525197841473040639",
     },
 ];
 
